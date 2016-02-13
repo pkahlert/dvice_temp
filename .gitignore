@@ -30,3 +30,8 @@
 
 # Debug files
 *.dSYM/
+
+# Eclipse
+*.metadata/
+*.Release/
+*.Debug/
